@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^6.4.0",
+    "body-parser": "^1.16.0",
+    "cors": "^2.8.5",
+    "express": "^4.14.0",
+    "mailsender": "^1.1.2",
+    "mysql": "^2.13.0",
+    "nexmo": "^2.5.1",
+    "nodemailer": "^5.0.0",
+    "nodemailer-sendgrid-transport": "^0.2.0",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "puretext": "^0.1.5",
+    "xoauth2": "^1.2.0"
+  }
+}
