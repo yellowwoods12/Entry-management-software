@@ -20,4 +20,5 @@ code {
 ::-moz-selection {
   background: #f50057;
   color: #ffffff;
+opacity:0.8;
 }
