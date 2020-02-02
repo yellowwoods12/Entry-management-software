@@ -11,7 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+code:hover{
+color:lightblue;
+}
 
+code:active{
+background-color:#fff000;
+}
 ::selection {
   background: #f50057;
   color: #fff000;
@@ -22,3 +28,4 @@ code {
   color: #ffffff;
 opacity:0.8;
 }
+
