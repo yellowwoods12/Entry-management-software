@@ -5,19 +5,29 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+letter-spacing:3px;
+line-height:4px;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+code:hover{
+color:lightblue;
+}
 
+code:active{
+background-color:#fff000;
+}
 ::selection {
   background: #f50057;
-  color: #ffffff;
+  color: #fff000;
 }
 
 ::-moz-selection {
   background: #f50057;
   color: #ffffff;
+opacity:0.8;
 }
+
