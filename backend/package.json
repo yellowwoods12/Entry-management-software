@@ -16,7 +16,7 @@
     "mailsender": "^1.1.2",
     "mysql": "^2.13.0",
     "nexmo": "^2.5.1",
-    "nodemailer": "^5.0.0",
+    "nodemailer": "^6.4.16",
     "nodemailer-sendgrid-transport": "^0.2.0",
     "nodemailer-smtp-transport": "^2.7.4",
     "puretext": "^0.1.5",
